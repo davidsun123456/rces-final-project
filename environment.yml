@@ -5,5 +5,5 @@ dependencies:
   - numpy
   - pandas
   - xarray
-  - matplotlit
+  - matplotlib
   
