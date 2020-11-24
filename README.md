@@ -4,7 +4,7 @@ My final project repository for RCES
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidsun123456/rces-final-project/HEAD)
 
 
-Question to be investigated: How's recent air quality in the United Kingdom?
+Question to be investigated: How's annual air quality of European countries since 2011?
 
 Link to the dataset: [EEA Air Quality Database](https://www.eea.europa.eu/data-and-maps/data/aqereporting-8)
 
